@@ -32,7 +32,8 @@ body {
   margin: 0 !important;
   padding: 0 !important;
   font-family: "Teko", sans-serif;
-  font-size: 16px;
+  font-size: 20px;
+  letter-spacing: 1px;
 }
 h1,
 h2,
@@ -44,6 +45,6 @@ h1 {
   text-transform: uppercase;
 }
 p {
-  font-size: 18px;
+  font-size: 20px;
 }
 </style>

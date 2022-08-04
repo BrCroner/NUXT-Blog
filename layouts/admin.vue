@@ -11,6 +11,6 @@ body {
   margin: 0 !important;
   padding: 0 !important;
   font-family: Verdana, Geneva, Tahoma, sans-serif;
-  font-size: 16px;
+  font-size: 20px;
 }
 </style>

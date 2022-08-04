@@ -2,6 +2,7 @@
   "name": "first-nuxt-app",
   "version": "1.0.0",
   "private": true,
+  "author": "Bruno Croner",
   "scripts": {
     "dev": "nuxt",
     "build": "nuxt build",
